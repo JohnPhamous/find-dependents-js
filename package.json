@@ -1,0 +1,25 @@
+{
+  "name": "find-dependents",
+  "version": "1.0.0",
+  "description": "Outputs the files imported inside a Javascript file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnPhamous/find-dependents-js.git"
+  },
+  "author": "John Pham <https://johnpham.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JohnPhamous/find-dependents-js/issues"
+  },
+  "homepage": "https://github.com/JohnPhamous/find-dependents-js#readme",
+  "devDependencies": {
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.12.0",
+    "eslint": "^4.19.1"
+  },
+  "dependencies": {}
+}
